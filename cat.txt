@@ -1,3 +1,3 @@
 "Hello Cat" 
 
-Store-store-cat
+Store-store-cat FROM CLONE
