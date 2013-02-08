@@ -1,4 +1,8 @@
 "Hello Cat" 
 
 Store-store-cat FROM CLONE
+<<<<<<< HEAD
 123123
+=======
+789789
+>>>>>>> 7a1a5859809467f43e88d6a62dd9376c1140a68e
